@@ -1,0 +1,13 @@
+.about-us-slide{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.about-us-page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
