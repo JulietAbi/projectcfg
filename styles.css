@@ -12,15 +12,7 @@ body {
     margin-bottom: 0.5em;
     text-transform: uppercase;
   }
-}
 
-.h1 {
-  color: white;
-  text-align: center;
-  font:'raleway', sans-serif;
-  letter-spacing: 0.15em;
-  font-size: 30px;
-}
 
 .starter-template {
   padding: 3rem 1.5rem;
