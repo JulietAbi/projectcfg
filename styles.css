@@ -7,12 +7,24 @@ body {
   position: relative;
 }
 
+.h1 {
+  color: white;
+  text-align: center;
+  font:'raleway', sans-serif;
+  letter-spacing: 0.15em;
+  font-size: 30px;
+}
+
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
   font-weight: 1000;
   font-style: normal;
   color: white;
+  font:'raleway', sans-serif;
+  letter-spacing: 0.15em;
+  font-size: 30px;
+
 }
 
 .hero-image {
