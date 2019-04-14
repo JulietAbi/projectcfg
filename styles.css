@@ -27,8 +27,6 @@ body {
 }
 
 .hero-image {
- Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read
- /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://secretldn.com/wp-content/uploads/2018/09/coppa-club-igloos.jpg");*/
 
   height: 100%;
   background-position: center;
@@ -54,7 +52,9 @@ body {
 font-size: 20px;
 font:'raleway', 'sans serif';
 letter-spacing: 0.15em;
-color: blue;
+color: black;
+font color: white;
+
 }
 
 
